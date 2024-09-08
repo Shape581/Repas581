@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Repas581/total)
+
 # ⚡ Repas581 V1.0.0
 
 Repas581 est un plugin qui premet de nourrire des patient a l'hôpital ou des prisonier.
